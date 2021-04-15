@@ -3,115 +3,121 @@
       {
          "localization_name":"PlayerNormal",
          "geometry":"geometry.humanoid.custom",
-         "texture":"skina.png",
+         "texture":"/skins/skina.png",
          "type":"free"
       },
       {
          "localization_name":"TechnoBlade",
          "geometry":"geometry.humanoid.custom",
-         "texture":"techno.png",
+         "texture":"/skins/techno.png",
          "type":"free"
       },
       {
          "localization_name":"Grian",
          "geometry":"geometry.humanoid.custom",
-         "texture":"grian.png",
+         "texture":"/skins/grian.png",
          "type":"free"
       },
       {
          "localization_name":"MumboJumbo",
          "geometry":"geometry.humanoid.custom",
-         "texture":"mumbo.png",
+         "texture":"/skins/mumbo.png",
          "type":"free"
       },
       {
          "localization_name":"Dream",
          "geometry":"geometry.humanoid.custom",
-         "texture":"dream.png",
+         "texture":"/skins/dream.png",
          "type":"free"
       },
       {
          "localization_name":"Gray Still Plays",
          "geometry":"geometry.humanoid.custom",
-         "texture":"gsp.png",
+         "texture":"/skins/gsp.png",
          "type":"free"
       },
       {
          "localization_name":"Obama",
          "geometry":"geometry.humanoid.custom",
-         "texture":"obama.png",
+         "texture":"/skins/obama.png",
          "type":"free"
       },
       {
          "localization_name":"sus",
          "geometry":"geometry.humanoid.custom",
-         "texture":"sus.png",
+         "texture":"/skins/sus.png",
          "type":"free"
       },
       {
          "localization_name":"Stone",
          "geometry":"geometry.humanoid.custom",
-         "texture":"stone.png",
+         "texture":"/skins/stone.png",
          "type":"free"
       },
       {
          "localization_name":"Sand",
          "geometry":"geometry.humanoid.custom",
-         "texture":"sand.png",
+         "texture":"/skins/sand.png",
          "type":"free"
       },
       {
          "localization_name":"Dirt",
          "geometry":"geometry.humanoid.custom",
-         "texture":"dirt.png",
+         "texture":"/skins/dirt.png",
          "type":"free"
       },
       {
          "localization_name":"Boyfriend",
          "geometry":"geometry.humanoid.custom",
-         "texture":"bf.png",
+         "texture":"/skins/bf.png",
          "type":"free"
       },
       {
          "localization_name":"Girlfriend",
          "geometry":"geometry.humanoid.custom",
-         "texture":"gf.png",
+         "texture":"/skins/gf.png",
          "type":"free"
       },
       {
          "localization_name":"Pico",
          "geometry":"geometry.humanoid.custom",
-         "texture":"pico.png",
+         "texture":"/skins/pico.png",
          "type":"free"
       },
       {
          "localization_name":"Pump",
          "geometry":"geometry.humanoid.custom",
-         "texture":"spook.png",
+         "texture":"/skins/spook.png",
          "type":"free"
       },
       {
          "localization_name":"HS Kid",
          "geometry":"geometry.humanoid.custom",
-         "texture":"syg.png",
+         "texture":"/skins/syg.png",
          "type":"free"
       },
       {
          "localization_name":"Daddy Dearest",
          "geometry":"geometry.humanoid.custom",
-         "texture":"dd.png",
+         "texture":"/skins/dd.png",
          "type":"free"
       },
       {
          "localization_name":"Halo",
          "geometry":"geometry.humanoid.custom",
-         "texture":"halo.png",
+         "texture":"/skins/halo.png",
+         "type":"free"
+      },
+      {
+         "localization_name":"Creeper",
+         "geometry":"geometry.humanoid.custom",
+         "texture":"/skins/creeper.png",
          "type":"free"
       },
       {
          "localization_name":"Doomguy",
          "geometry":"geometry.humanoid.custom",
-         "texture":"doom.png",
+         "texture":"/skins/doom.png",
          "type":"free"
       }
    ], "serialize_name":"Nicks Skin Pack",
