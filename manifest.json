@@ -1,0 +1,19 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Nicks Skin Pack",
+        "uuid": "181f6706-5eaf-412f-8d0d-f408475c9ca0",
+        "version": [
+            1,0,0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "6aba7fa2-0e40-4192-b2b4-600c5588a73c",
+            "version": [
+                1,0,0
+            ]
+        }
+    ]
+}
